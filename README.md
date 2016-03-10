@@ -19,6 +19,6 @@ _Note on these last few items: careful care was taken to not infringe upon any c
 
 I will add any good articles, guides, how-to's and reproductions (where possible) in additional files.  I will try to maintain this main ReadMe very clean acknowledging only the most major contributors.
 
-I am Fernando Rodriguez [@nandotechinc](https://twitter.com/nandotechinc), .NET Developer (truthfully polyglot), Entrepreneur, Tech Enthusiast, Success is Everything. Founding CEO of [NandoTech, Inc.](http://www.nandotech.com), a software and business consulting company that has been active since 2013.  We have extensive experience in phone systems, asterisk and Twilio, and therefore call ourselves _Software Developers and Telephony Solutions Experts_.
+I am Fernando Rodriguez [@nandotechinc](https://twitter.com/nandotechinc), .NET Developer (truthfully polyglot), Entrepreneur, Tech Enthusiast, Success is Everything. Founding CEO of [NandoTech, Inc.](http://www.nandotech.com), a software and business consulting company that has been active since 2013.  We have extensive experience in phone systems, asterisk, call centers/auto dialers and Twilio, and therefore call ourselves _Software Developers and Telephony Solutions Experts_.  [Our Twilio Profile](https://www.twilio.com/doers/fernando-rodriguez)
 
 If even one person finds this aggregation/collection useful, then I feel like it was worth it
