@@ -12,3 +12,7 @@ _And also many many thanks and credit to the wonderful people @ http://www.geniu
 #####Peter Thiel - Zero To One by Blake Masters & Peter Thiel - http://zerotoonebook.com/ 
 #####Ben Horowitz - The Hard Thing About Hard Things - http://hardthings.bhorowitz.com/
 _Note on these last few items: careful care was taken to not infringe upon any copyrights here, as this is a copywritten publication.  You may find my ideas or summaries about the book._
+
+-------------------------------
+
+I will add any good articles, guides, how-to's and reproductions (where possible) in additional files.  I will try to maintain this main ReadMe very clean acknowledging only the most major contributors.
