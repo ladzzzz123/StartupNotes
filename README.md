@@ -1,5 +1,6 @@
 # StartupNotes
 ## Or My Collection of Notes on How To Start A Startup
+###### _Still under significant construction, slowly being put together._
 
 A collection of resources, links, and information on or about startups, fundraising, venture capital and everything else that goes with starting a StartUp.
 
