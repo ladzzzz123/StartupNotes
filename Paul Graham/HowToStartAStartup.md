@@ -1,6 +1,7 @@
 ## How to Start a Startup
 #### March 2005
 #### THIS IS A DIRECT COPY OF (http://paulgraham.com/start.html) ALL CREDIT GOES TO HIM AND ALL CONTENT CONTAINED HEREIN IS THE PROPERTY OF THE AUTHOR (Paul Graham).
+
 --------------------------------------------------
 
 (This essay is derived from a talk at the Harvard Computer Society.)
