@@ -9,7 +9,7 @@
 |           |  Cofounder, Good Ventures                      |                             |
 |           |                                                |                             |
 |9/25/14    | ###Sam Altman, ######President, Y Combinator   |Ideas, Products, Teams and   |
-                                                                Execution Part II          
+|           |                                                |  Execution Part II          |
 |9/30/14    | ###Paul Graham, #####Founder, Y Combinator     | Before The Startup          |
 
 
